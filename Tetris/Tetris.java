@@ -34,7 +34,7 @@ public class Tetris extends JFrame {
 
         return statusbar;
     }
-
+    //main
     public static void main(String[] args) {
 
         EventQueue.invokeLater(() -> {
